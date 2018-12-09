@@ -7,6 +7,8 @@
 
 Python Jupyter Notebook leveraging **Transfer Learning**  and **Convolutional Neural Networks** implemented with **Keras**. 
 
+Part of the [Kaggle competition](https://www.kaggle.com/c/histopathologic-cancer-detection). 
+
 
 ## Data
 
@@ -48,7 +50,7 @@ Python Jupyter Notebook leveraging **Transfer Learning**  and **Convolutional Ne
 	__________________________________________________________________________________________________
 
 
-## Results
+## Training
 
 <h3>
   <img src="assets/training.png" width="500">
@@ -57,3 +59,9 @@ Python Jupyter Notebook leveraging **Transfer Learning**  and **Convolutional Ne
 <h3>
   <img src="assets/validation.png" width="500">
 </h3>
+
+## Results
+
+Kaggle score: **0.9550**
+
+
