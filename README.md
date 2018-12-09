@@ -9,7 +9,7 @@ Python Jupyter Notebook leveraging **Transfer Learning**  and **Convolutional Ne
 
 ## Data
 
-**Dataset:** [Data Sources](https://www.kaggle.com/c/histopathologic-cancer-detection/data)
+**Dataset:** [Link](https://www.kaggle.com/c/histopathologic-cancer-detection/data)
 
 **Description:** Binary classification whether a given histopathologic image contains a tumor or not.
 
