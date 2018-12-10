@@ -60,8 +60,12 @@ Part of the [Kaggle competition](https://www.kaggle.com/c/histopathologic-cancer
   <img src="assets/validation.png" width="500">
 </h3>
 
+<h3>
+  <img src="assets/roc.png" width="500">
+</h3>
+
 ## Results
 
-Kaggle score: **0.9550**
+Kaggle score: **0.9551**
 
 
