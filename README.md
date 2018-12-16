@@ -27,6 +27,10 @@ Submitted [Kernel](https://www.kaggle.com/greg115/histopathologic-cancer-detecto
 
 
 ## Model
+<h3>
+  <img src="assets/model_plot.png" width="500">
+</h3>
+
 	__________________________________________________________________________________________________
 	Layer (type)                    Output Shape         Param #     Connected to                     
 	==================================================================================================
