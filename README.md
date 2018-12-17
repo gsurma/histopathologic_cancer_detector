@@ -11,6 +11,9 @@ Part of the [Kaggle competition](https://www.kaggle.com/c/histopathologic-cancer
 
 Submitted [Kernel](https://www.kaggle.com/greg115/histopathologic-cancer-detector-lb-0-958) with 0.958 LB score.
 
+Check out corresponding Medium article:
+
+[Histopathologic Cancer Detector - Machine Learning in Medicine](https://towardsdatascience.com/histopathologic-cancer-detector-finding-cancer-cells-with-machine-learning-b77ce1ee9b0a)
 
 
 ## Data
@@ -73,6 +76,6 @@ Submitted [Kernel](https://www.kaggle.com/greg115/histopathologic-cancer-detecto
 
 ## Results
 
-Kaggle score: **0.9551**
+Kaggle score: **0.958**
 
 
